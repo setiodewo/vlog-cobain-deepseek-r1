@@ -1,11 +1,11 @@
 # Run Ollama
-    Ref: https://hub.docker.com/r/ollama/ollama
+Ref: https://hub.docker.com/r/ollama/ollama
 ```
 docker run -d --restart always -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 ```
 
 ## Run Ollama dgn GPU
-## Harus diinstall dulu Nvidia Container Toolkit package
+Harus diinstall dulu Nvidia Container Toolkit package
 
 ```
 docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
@@ -26,7 +26,7 @@ docker exec -it ollama ollama run llama3
 
 
 # Run Open-WebUI
-    Ref: https://github.com/open-webui/open-webui
+Ref: https://github.com/open-webui/open-webui
 
 ## CPU Only
 
