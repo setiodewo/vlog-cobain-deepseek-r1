@@ -1,6 +1,7 @@
 # Run Ollama
 
-Link video: https://youtu.be/1kcsGY7pFFg
+[![FrankenPHP Worker Mode](https://img.youtube.com/vi/1kcsGY7pFFg/0.jpg)](https://www.youtube.com/watch?v=1kcsGY7pFFg)
+
 Ref: https://hub.docker.com/r/ollama/ollama
 
 ### CPU Only
