@@ -1,4 +1,6 @@
 # Run Ollama
+
+Link video: https://youtu.be/1kcsGY7pFFg
 Ref: https://hub.docker.com/r/ollama/ollama
 
 ### CPU Only
